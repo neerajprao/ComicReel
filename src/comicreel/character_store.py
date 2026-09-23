@@ -107,6 +107,12 @@ def assign_character(
             "members": [list(embedding)],
             "count": 1,
             "representative_crop": None,
+            # Per-member crop file paths, parallel to `members` -- the
+            # caller (stages/character_embedding.py) appends to this after
+            # every assign_character call, matched or new. Lets a later
+            # verification pass (character_verification.py) locate the exact
+            # crop image behind any member index it wants to show a VLM.
+            "crop_paths": [],
         }
     )
     return character_id, similarity, True

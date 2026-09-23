@@ -42,6 +42,7 @@ stages:
       head_crop_width_fraction: 0.7
       clustering_mode: complete_linkage   # alternative: centroid -- measured under-splitting on this project's sample pages
       similarity_threshold: 0.55   # cosine similarity; tuned by visual review for complete_linkage + head crops + dinov2
+      color_weight: 0.25   # fuse a color histogram into the embedding; see progress.md -- not a validated optimum, just reasonable
       clip_model_id: openai/clip-vit-base-patch32
       dinov2_model_id: facebook/dinov2-base
 

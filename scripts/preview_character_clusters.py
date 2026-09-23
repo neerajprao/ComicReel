@@ -63,7 +63,15 @@ def main(comic_id: str, backend_name: str, out_dir: Path) -> None:
 
     for cluster in store["clusters"]:
         character_id = cluster["character_id"]
-        crop_paths = sorted(crop_dir.glob(f"{character_id}__*.png"))
+        # Prefer the store's own crop_paths (accurate after a verification
+        # pass may have split/merged clusters -- see character_verification.py
+        # -- since on-disk filenames still reflect each crop's ORIGINAL,
+        # pre-refinement character_id and would be stale here). Fall back to
+        # the filename-glob for older stores saved before crop_paths existed.
+        if cluster.get("crop_paths"):
+            crop_paths = [Path(p) for p in cluster["crop_paths"]]
+        else:
+            crop_paths = sorted(crop_dir.glob(f"{character_id}__*.png"))
         if not crop_paths:
             continue
         grid = build_grid(crop_paths)

@@ -119,7 +119,12 @@ def _embed_and_cluster(
     use_head_crop = options.get("use_head_crop", True)
     head_crop_top_fraction = options.get("head_crop_top_fraction", 0.45)
     head_crop_width_fraction = options.get("head_crop_width_fraction", 0.7)
-    color_weight = options.get("color_weight", 0.35)
+    # 0.25 chosen from measured comparisons on limited data (see the Phase 4
+    # decisions log) -- no single weight cleanly dominated in that test, so
+    # this isn't a validated optimum, just a reasonable middle ground before
+    # the VLM verification pass (character_verification.py) catches whatever
+    # this and the embedding still get wrong.
+    color_weight = options.get("color_weight", 0.25)
 
     assignments: list[dict[str, Any]] = []
     for i, bbox in enumerate(character_boxes):
@@ -160,8 +165,10 @@ def _embed_and_cluster(
 
         crop_path = crop_dir / f"{character_id}__{page_id}_c{i:03d}.png"
         crop.save(crop_path)
+        cluster = next(c for c in store["clusters"] if c["character_id"] == character_id)
+        cluster.setdefault("crop_paths", []).append(str(crop_path))
         if is_new:
-            store["clusters"][-1]["representative_crop"] = str(crop_path)
+            cluster["representative_crop"] = str(crop_path)
 
         panel_idx = assign_to_panel(bbox, panel_boxes)
         assignments.append(
