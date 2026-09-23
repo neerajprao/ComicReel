@@ -1,0 +1,96 @@
+{
+  "characters": [
+    {
+      "character_id": "char_000",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_000__page_02_c000.png",
+      "name": null
+    },
+    {
+      "character_id": "char_001",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_001__page_02_c001.png",
+      "name": null
+    },
+    {
+      "character_id": "char_002",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_002__page_02_c005.png",
+      "name": null
+    },
+    {
+      "character_id": "char_003",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_003__page_02_c007.png",
+      "name": null
+    },
+    {
+      "character_id": "char_004",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_004__page_03_c005.png",
+      "name": null
+    },
+    {
+      "character_id": "char_005",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_005__page_03_c009.png",
+      "name": null
+    }
+  ],
+  "panel_assignments": [
+    {
+      "panel_id": "page_03_p002",
+      "bubble_id": null,
+      "character_id": "char_001",
+      "similarity": 0.5528567966038522
+    },
+    {
+      "panel_id": "page_03_p005",
+      "bubble_id": null,
+      "character_id": "char_002",
+      "similarity": 0.6317668445850304
+    },
+    {
+      "panel_id": "page_03_p002",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.6957325505844391
+    },
+    {
+      "panel_id": "page_03_p003",
+      "bubble_id": null,
+      "character_id": "char_002",
+      "similarity": 0.6388634010090299
+    },
+    {
+      "panel_id": "page_03_p001",
+      "bubble_id": null,
+      "character_id": "char_002",
+      "similarity": 0.6157333021491953
+    },
+    {
+      "panel_id": "page_03_p000",
+      "bubble_id": null,
+      "character_id": "char_004",
+      "similarity": 0.5417827571751123
+    },
+    {
+      "panel_id": "page_03_p004",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.6426118110748044
+    },
+    {
+      "panel_id": "page_03_p004",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.6974549541388003
+    },
+    {
+      "panel_id": "page_03_p005",
+      "bubble_id": null,
+      "character_id": "char_004",
+      "similarity": 0.6062863209676749
+    },
+    {
+      "panel_id": "page_03_p000",
+      "bubble_id": null,
+      "character_id": "char_005",
+      "similarity": 0.520817715445959
+    }
+  ]
+}

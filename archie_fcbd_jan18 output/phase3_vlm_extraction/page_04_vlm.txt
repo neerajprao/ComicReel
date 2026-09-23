@@ -1,0 +1,46 @@
+=== page_04_p000 ===
+  action:   A man in a yellow coat is holding a small dog and walking past an animal shelter sign.
+  setting:  an animal shelter
+  mood:     comedic
+  sfx:      []
+    [0.62] ', MATL DrOcmA) jAi THIC. NOTHING PERSONAL IN THIS FELLER.“ BUT MY SCHOOL!IS NO PLACE FOR PETS, Ls aera a'
+    [0.85] 'Animal shelter'
+
+=== page_04_p001 ===
+  action:   A man in a yellow coat is pulling on his coat as he stands in a doorway, looking frustrated.
+  setting:  a doorway leading to an office or home interior
+  mood:     frustrated
+  sfx:      []
+    [0.85] "Hmph://I didn't WANT TO GO OUT TODAY / I've got a desk full of work that needs doing./"
+
+=== page_04_p002 ===
+  action:   Two men are engaged in a conversation, with one expressing concern about taking on another person to feed.
+  setting:  an indoor setting, possibly a room or office, indicated by the blue background and the men's attire.
+  mood:     serious
+  sfx:      []
+    [0.85] 'But not many people are taking on another mouth to feed these days / B-But if'
+    [0.85] 'B-But if nobody wants him?'
+
+=== page_04_p003 ===
+  action:   A man in a yellow suit is talking to another man holding a small dog, with a dog in the background barking.
+  setting:  an animal shelter or adoption center
+  mood:     comedic
+  sfx:      ['ARF!', 'YAP!']
+    [0.55] 'WELL, THATS | WHAT WE Always HOPE FOR’ JD es'
+    [0.85] "You'll keep him here until he's adopted, right?"
+
+=== page_04_p004 ===
+  action:   A man in a yellow trench coat and hat is running with a small dog in his arms, expressing frustration about not getting another night's sleep.
+  setting:  a bedroom at night
+  mood:     tense
+  sfx:      []
+    [0.85] "over my dead body / I'd never get another night's sleep.'"
+
+=== page_04_p005 ===
+  action:   A man in a gray suit is holding a small orange dog, while another man in a yellow suit and hat looks surprised and concerned.
+  setting:  inside a building, possibly an animal shelter or a pet store
+  mood:     tense
+  sfx:      ['GULP']
+    [0.85] 'Gulp! Y-You mean....z EGAD./'
+    [0.85] 'Look,mister/. The world is full of unwanted animals./'
+    [0.72] "THERE'S NO WAY WE CAN KEEP THEM ALL.” Sennen een"

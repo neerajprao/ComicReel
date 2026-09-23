@@ -1,0 +1,58 @@
+=== page_06_p000 ===
+  action:   Two mice observe a drought-stricken landscape, expressing concern about crop failure and food scarcity for Mouseville.
+  setting:  a rural landscape with a water tower and crops
+  mood:     anxious
+  sfx:      []
+    [0.75] 'OX, THIS IS TERRIBLE! IF THE (CROPS DIE FOR LACK OF WATER, MOUSEVILLE WILL HAVE NO FOOD NEXT YEAR / WHERE CAN + KIOMIC MOUSE BE... 2 yO'
+
+=== page_06_p001 ===
+  action:   A mouse wearing a hat and holding a magnifying glass looks worried and says he tried to call someone but nobody knows where they are.
+  setting:  an indoor setting, possibly a room
+  mood:     anxious
+  sfx:      []
+    [0.85] 'I tried to call on him - but nobody knows where he is!'
+
+=== page_06_p002 ===
+  action:   A group of mice, led by a larger mouse in a red cap, is gathered near a small body of water, seemingly planning a swimming lesson.
+  setting:  a natural outdoor setting with a small pond and reeds, suggesting a peaceful, rural environment.
+  mood:     excited
+  sfx:      []
+    [0.53] "J... OT TO THISSZCRETSWIMMING. HOLE! AND WERE NOTLEAVING TILL I'VE TAUGHT YOU ALL HOW ~~ wswin’ pes"
+
+=== page_06_p003 ===
+  action:   A cartoon character is speaking to another character, expressing readiness to help non-swimmers.
+  setting:  an indoor setting, possibly a room or a classroom
+  mood:     comedic
+  sfx:      []
+    [0.85] 'WHERE IS OK here at this timeof need? Helping others--Of course'
+
+=== page_06_p004 ===
+  action:   A diver performs a dramatic dive into a pool, creating a splash as they enter the water.
+  setting:  a swimming pool with a diving board
+  mood:     excited
+  sfx:      ['BAM']
+    [0.85] "Isn't he wonderful!"
+    [0.85] "Look at that dive,'"
+
+=== page_06_p005 ===
+  action:   A character is demonstrating a move to another character, who is watching attentively.
+  setting:  an outdoor area with trees and a clear sky
+  mood:     comedic
+  sfx:      ['BAM']
+    [0.63] 'NOW STAND BY WHILE I SHOW YOU ~ HOW EAsy IT IS! see'
+
+=== page_06_p006 ===
+  action:   A character is peeking out from behind a bush, holding a red object, while another character is partially visible in the foreground.
+  setting:  a forested area with bushes and trees
+  mood:     tense
+  sfx:      ['HEH-HEH-HEH']
+    [0.85] 'it look whose his one to-the swimming hole ...'
+    [0.85] "HOW -- that's atomic house's best there,shardon! And his gaze.Plus in that belt.'"
+    [0.85] 'Heh, yeah lying there in'
+
+=== page_06_p007 ===
+  action:   Mickey Mouse swims confidently in a pond, surrounded by three mice who admire his swimming skills.
+  setting:  a pond with reeds and lily pads
+  mood:     comedic
+  sfx:      []
+    [0.85] "and he's goin' to teach - goly, we're lucky!"

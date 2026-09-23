@@ -1,0 +1,210 @@
+{
+  "characters": [
+    {
+      "character_id": "char_000",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_000__page_04_c000.png",
+      "name": null
+    },
+    {
+      "character_id": "char_001",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_001__page_04_c003.png",
+      "name": null
+    },
+    {
+      "character_id": "char_002",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_002__page_04_c008.png",
+      "name": null
+    },
+    {
+      "character_id": "char_003",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_003__page_04_c012.png",
+      "name": null
+    },
+    {
+      "character_id": "char_004",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_004__page_04_c018.png",
+      "name": null
+    },
+    {
+      "character_id": "char_005",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_005__page_04_c019.png",
+      "name": null
+    },
+    {
+      "character_id": "char_006",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_006__page_05_c006.png",
+      "name": null
+    },
+    {
+      "character_id": "char_007",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_007__page_05_c011.png",
+      "name": null
+    },
+    {
+      "character_id": "char_008",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_008__page_05_c014.png",
+      "name": null
+    },
+    {
+      "character_id": "char_009",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_009__page_05_c018.png",
+      "name": null
+    },
+    {
+      "character_id": "char_010",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_010__page_05_c019.png",
+      "name": null
+    },
+    {
+      "character_id": "char_011",
+      "representative_crop": "/Users/neerajprao/Desktop/ComicReel/data/cache/all_top_comics_6/characters/dinov2/crops/char_011__page_05_c020.png",
+      "name": null
+    }
+  ],
+  "panel_assignments": [
+    {
+      "panel_id": "page_05_p003",
+      "bubble_id": null,
+      "character_id": "char_001",
+      "similarity": 0.6422468220384988
+    },
+    {
+      "panel_id": "page_05_p006",
+      "bubble_id": null,
+      "character_id": "char_004",
+      "similarity": 0.6824840919571384
+    },
+    {
+      "panel_id": "page_05_p003",
+      "bubble_id": null,
+      "character_id": "char_004",
+      "similarity": 0.5992938728209152
+    },
+    {
+      "panel_id": "page_05_p003",
+      "bubble_id": null,
+      "character_id": "char_005",
+      "similarity": 0.6849474424026863
+    },
+    {
+      "panel_id": "page_05_p006",
+      "bubble_id": null,
+      "character_id": "char_004",
+      "similarity": 0.609938057507854
+    },
+    {
+      "panel_id": "page_05_p004",
+      "bubble_id": null,
+      "character_id": "char_005",
+      "similarity": 0.6288986638110594
+    },
+    {
+      "panel_id": "page_05_p002",
+      "bubble_id": null,
+      "character_id": "char_006",
+      "similarity": 0.31376141305307687
+    },
+    {
+      "panel_id": "page_05_p007",
+      "bubble_id": null,
+      "character_id": "char_004",
+      "similarity": 0.6409180751989539
+    },
+    {
+      "panel_id": "page_05_p004",
+      "bubble_id": null,
+      "character_id": "char_000",
+      "similarity": 0.5869009269213818
+    },
+    {
+      "panel_id": "page_05_p002",
+      "bubble_id": null,
+      "character_id": "char_006",
+      "similarity": 0.6381994464378475
+    },
+    {
+      "panel_id": "page_05_p002",
+      "bubble_id": null,
+      "character_id": "char_004",
+      "similarity": 0.6439484994180315
+    },
+    {
+      "panel_id": "page_05_p005",
+      "bubble_id": null,
+      "character_id": "char_007",
+      "similarity": 0.4157793005137004
+    },
+    {
+      "panel_id": "page_05_p004",
+      "bubble_id": null,
+      "character_id": "char_005",
+      "similarity": 0.601487968936696
+    },
+    {
+      "panel_id": "page_05_p001",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.562422374289635
+    },
+    {
+      "panel_id": "page_05_p003",
+      "bubble_id": null,
+      "character_id": "char_008",
+      "similarity": 0.549476986127274
+    },
+    {
+      "panel_id": "page_05_p005",
+      "bubble_id": null,
+      "character_id": "char_008",
+      "similarity": 0.6390291037567856
+    },
+    {
+      "panel_id": "page_05_p000",
+      "bubble_id": null,
+      "character_id": "char_008",
+      "similarity": 0.6309220552040344
+    },
+    {
+      "panel_id": "page_05_p007",
+      "bubble_id": null,
+      "character_id": "char_000",
+      "similarity": 0.5870137212265792
+    },
+    {
+      "panel_id": "page_05_p005",
+      "bubble_id": null,
+      "character_id": "char_009",
+      "similarity": 0.4470565413096038
+    },
+    {
+      "panel_id": "page_05_p007",
+      "bubble_id": null,
+      "character_id": "char_010",
+      "similarity": 0.5317475305210148
+    },
+    {
+      "panel_id": "page_05_p005",
+      "bubble_id": null,
+      "character_id": "char_011",
+      "similarity": 0.5103431062637468
+    },
+    {
+      "panel_id": "page_05_p007",
+      "bubble_id": null,
+      "character_id": "char_000",
+      "similarity": 0.6339943447545151
+    },
+    {
+      "panel_id": "page_05_p007",
+      "bubble_id": null,
+      "character_id": "char_011",
+      "similarity": 0.5654941627737575
+    },
+    {
+      "panel_id": "page_05_p003",
+      "bubble_id": null,
+      "character_id": "char_008",
+      "similarity": 0.6584579997434942
+    }
+  ]
+}

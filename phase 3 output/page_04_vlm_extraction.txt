@@ -1,0 +1,51 @@
+=== page_04_p000 ===
+  action:   A character in a top hat and monocle is presenting a small object to two mice, who are smiling and expressing gratitude.
+  setting:  an indoor setting, possibly a room or office, given the formal attire and the presence of a desk.
+  mood:     comedic
+  sfx:      []
+    [0.85] "Thank you, count,'"
+    [0.85] 'Thank you!'
+
+=== page_04_p001 ===
+  action:   A cartoon character in a top hat and tails is enthusiastically promoting 'free sun glasses' while two other characters, one in a green outfit and the other in a purple suit, appear excited and ready to take the glasses.
+  setting:  an outdoor setting with a clear sky, possibly a fair or public event
+  mood:     excited
+  sfx:      []
+    [0.77] 'GET THEM HERE, FOLKS--FREE OF CHARGE! “AND WATCH THE MOON BLOT OuT THE SUN?'
+
+=== page_04_p002 ===
+  action:   A cat character is running away from a crowd of mice, who are pointing and laughing at him.
+  setting:  a street scene with a building and a bright sun in the sky
+  mood:     comedic
+  sfx:      ['HEH-HEH-HEH']
+    [0.72] 'Nhe W“AEM HEH <= NOW WHILE THOSE FOOLS KEEP WAITING FOR THE ECLIPSE THAT WILL NEVER COMB...'
+    [0.85] 'Later...'
+
+=== page_04_p003 ===
+  action:   A character is counting money while another character looks on with a surprised expression.
+  setting:  a room with a window and a pile of money
+  mood:     comedic
+  sfx:      []
+    [0.85] "Chbe, Count -- You're Adishonest- To-Goodness Genius!"
+
+=== page_04_p004 ===
+  action:   A mouse character is being chased by a cat character through a bank vault, with the cat attempting to grab the mouse.
+  setting:  a bank vault
+  mood:     tense
+  sfx:      ['BANG']
+    [0.85] '... well cur about everything of value in households!'
+
+=== page_04_p005 ===
+  action:   A character in a red hat is crouching behind a barrel, seemingly sneaking or hiding, while another character is lying on the ground, possibly injured or unconscious.
+  setting:  an indoor setting with barrels and a wooden floor, suggesting a basement or storage area.
+  mood:     tense
+  sfx:      []
+    [0.83] "GOOD --NOW LET'S HAUL THESE Sacks ( PUFF rr: TO OUR HIDEOUT BEFORE ATOMIC MOUSE GETS BACK/"
+
+=== page_04_p006 ===
+  action:   Two characters are rummaging through a large bag, searching for something.
+  setting:  an indoor setting, possibly a room or a shop, given the presence of a sign reading 'JEWELER'.
+  mood:     tense
+  sfx:      ['CASP']
+    [0.85] 'nothing else left (but for us to take,count).'
+    [0.85] 'Well,'

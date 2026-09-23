@@ -1,0 +1,35 @@
+=== known characters so far: 6 ===
+  char_000  name=None
+  char_001  name=None
+  char_002  name=None
+  char_003  name=None
+  char_004  name=None
+  char_005  name=None
+
+=== page_04 assignments ===
+  page_04_p003: char_000 (similarity=0.00)
+  page_04_p002: char_000 (similarity=0.71)
+  page_04_p004: char_000 (similarity=0.67)
+  page_04_p002: char_001 (similarity=0.54)
+  page_04_p005: char_001 (similarity=0.56)
+  page_04_p001: char_000 (similarity=0.74)
+  page_04_p001: char_000 (similarity=0.70)
+  page_04_p003: char_000 (similarity=0.63)
+  page_04_p003: char_002 (similarity=0.53)
+  page_04_p006: char_000 (similarity=0.67)
+  page_04_p005: char_001 (similarity=0.64)
+  page_04_p006: char_000 (similarity=0.56)
+  page_04_p002: char_003 (similarity=0.45)
+  page_04_p002: char_003 (similarity=0.58)
+  page_04_p002: char_002 (similarity=0.63)
+  page_04_p003: char_003 (similarity=0.57)
+  page_04_p004: char_000 (similarity=0.67)
+  page_04_p001: char_000 (similarity=0.59)
+  page_04_p004: char_004 (similarity=0.55)
+  page_04_p002: char_005 (similarity=0.51)
+  page_04_p006: char_004 (similarity=0.67)
+  page_04_p000: char_004 (similarity=0.70)
+  page_04_p002: char_004 (similarity=0.56)
+  page_04_p000: char_000 (similarity=0.62)
+  page_04_p000: char_004 (similarity=0.61)
+  page_04_p002: char_002 (similarity=0.64)

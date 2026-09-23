@@ -1,0 +1,45 @@
+=== known characters so far: 18 ===
+  char_000  name=None
+  char_001  name=None
+  char_002  name=None
+  char_003  name=None
+  char_004  name=None
+  char_005  name=None
+  char_006  name=None
+  char_007  name=None
+  char_008  name=None
+  char_009  name=None
+  char_010  name=None
+  char_011  name=None
+  char_012  name=None
+  char_013  name=None
+  char_014  name=None
+  char_015  name=None
+  char_016  name=None
+  char_017  name=None
+
+=== page_06 assignments ===
+  page_06_p004: char_010 (similarity=0.60)
+  page_06_p006: char_008 (similarity=0.66)
+  page_06_p002: char_008 (similarity=0.67)
+  page_06_p002: char_008 (similarity=0.55)
+  page_06_p000: char_012 (similarity=0.39)
+  page_06_p007: char_008 (similarity=0.57)
+  page_06_p007: char_012 (similarity=0.68)
+  page_06_p004: char_008 (similarity=0.67)
+  page_06_p004: char_013 (similarity=0.39)
+  page_06_p003: char_005 (similarity=0.59)
+  page_06_p005: char_010 (similarity=0.56)
+  page_06_p002: char_008 (similarity=0.65)
+  page_06_p007: char_008 (similarity=0.57)
+  page_06_p005: char_003 (similarity=0.61)
+  page_06_p003: char_014 (similarity=0.54)
+  page_06_p007: char_015 (similarity=0.53)
+  page_06_p004: char_004 (similarity=0.63)
+  page_06_p005: char_016 (similarity=0.53)
+  page_06_p002: char_003 (similarity=0.63)
+  page_06_p000: char_017 (similarity=0.50)
+  page_06_p005: char_000 (similarity=0.63)
+  page_06_p000: char_012 (similarity=0.60)
+  page_06_p002: char_008 (similarity=0.61)
+  page_06_p001: char_014 (similarity=0.60)

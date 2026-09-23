@@ -1,0 +1,124 @@
+{
+  "page_id": "page_04",
+  "panels": [
+    {
+      "panel_id": "page_04_p000",
+      "action_description": "A character in a top hat and monocle is presenting a small object to two mice, who are smiling and expressing gratitude.",
+      "setting": "an indoor setting, possibly a room or office, given the formal attire and the presence of a desk.",
+      "mood": "comedic",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b000",
+          "dialogue_text": "Thank you, count,'",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_04_b001",
+          "dialogue_text": "Thank you!",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p001",
+      "action_description": "A cartoon character in a top hat and tails is enthusiastically promoting 'free sun glasses' while two other characters, one in a green outfit and the other in a purple suit, appear excited and ready to take the glasses.",
+      "setting": "an outdoor setting with a clear sky, possibly a fair or public event",
+      "mood": "excited",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b002",
+          "dialogue_text": "GET THEM HERE, FOLKS--FREE OF CHARGE! \u201cAND WATCH THE MOON BLOT OuT THE SUN?",
+          "ocr_confidence": 0.765
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p002",
+      "action_description": "A cat character is running away from a crowd of mice, who are pointing and laughing at him.",
+      "setting": "a street scene with a building and a bright sun in the sky",
+      "mood": "comedic",
+      "onomatopoeia": [
+        "HEH-HEH-HEH"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b003",
+          "dialogue_text": "Nhe W\u201cAEM HEH <= NOW WHILE THOSE FOOLS KEEP WAITING FOR THE ECLIPSE THAT WILL NEVER COMB...",
+          "ocr_confidence": 0.723529411764706
+        },
+        {
+          "bubble_id": "page_04_b004",
+          "dialogue_text": "Later...",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p003",
+      "action_description": "A character is counting money while another character looks on with a surprised expression.",
+      "setting": "a room with a window and a pile of money",
+      "mood": "comedic",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b005",
+          "dialogue_text": "Chbe, Count -- You're Adishonest- To-Goodness Genius!",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p004",
+      "action_description": "A mouse character is being chased by a cat character through a bank vault, with the cat attempting to grab the mouse.",
+      "setting": "a bank vault",
+      "mood": "tense",
+      "onomatopoeia": [
+        "BANG"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b006",
+          "dialogue_text": "... well cur about everything of value in households!",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p005",
+      "action_description": "A character in a red hat is crouching behind a barrel, seemingly sneaking or hiding, while another character is lying on the ground, possibly injured or unconscious.",
+      "setting": "an indoor setting with barrels and a wooden floor, suggesting a basement or storage area.",
+      "mood": "tense",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b007",
+          "dialogue_text": "GOOD --NOW LET'S HAUL THESE Sacks ( PUFF rr: TO OUR HIDEOUT BEFORE ATOMIC MOUSE GETS BACK/",
+          "ocr_confidence": 0.8264705882352941
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p006",
+      "action_description": "Two characters are rummaging through a large bag, searching for something.",
+      "setting": "an indoor setting, possibly a room or a shop, given the presence of a sign reading 'JEWELER'.",
+      "mood": "tense",
+      "onomatopoeia": [
+        "CASP"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b008",
+          "dialogue_text": "nothing else left (but for us to take,count).",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_04_b009",
+          "dialogue_text": "Well,",
+          "ocr_confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

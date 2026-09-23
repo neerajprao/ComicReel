@@ -1,0 +1,97 @@
+{
+  "page_id": "page_02",
+  "panels": [
+    {
+      "panel_id": "page_02_p000",
+      "action_description": "A man in a blue suit and yellow vest is pointing and shouting at three other characters who appear to be in a state of surprise or concern.",
+      "setting": "an indoor setting with windows and a door, possibly a school or office building",
+      "mood": "tense",
+      "onomatopoeia": [
+        "BANG",
+        "WHOOSH"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_02_b000",
+          "dialogue_text": "HOLD IT THERE iO",
+          "ocr_confidence": 0.4825
+        }
+      ]
+    },
+    {
+      "panel_id": "page_02_p001",
+      "action_description": "Two characters are being chased by a man in a blue suit, who is pointing and shouting 'VAMOOSE!'",
+      "setting": "an office or classroom",
+      "mood": "tense",
+      "onomatopoeia": [
+        "BANG"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_02_b001",
+          "dialogue_text": "T-THAT M-Means, \" SPIXIT\"",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_02_b002",
+          "dialogue_text": "You two/-- Vamose.'",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_02_p002",
+      "action_description": "A man in a blue coat hands a small orange object to a woman in a red coat, who appears surprised.",
+      "setting": "an unspecified indoor setting",
+      "mood": "surprised",
+      "onomatopoeia": [
+        "EEP!"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_02_b003",
+          "dialogue_text": "Hah! So, the illegal little lump is yours, ChuckClayton. Your dad will be happy to hear if the",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_02_b004",
+          "dialogue_text": "Eep!",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_02_p003",
+      "action_description": "A woman in a red coat is gesturing emphatically while speaking to a man with a large nose, who is pointing at a small dog.",
+      "setting": "an indoor setting, possibly a home or office",
+      "mood": "comedic",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_02_b005",
+          "dialogue_text": "He's not @1G enough to be a whole infraction yet/.",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_02_p004",
+      "action_description": "A man in a blue suit gestures towards another man in a red coat, who is holding a small dog. The man in the blue suit appears to be explaining something.",
+      "setting": "an indoor setting, possibly an office or study, with bookshelves and a window in the background.",
+      "mood": "tense",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_02_b006",
+          "dialogue_text": "Ah, Mr. Weatherbee.' He's so 'My'",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_02_b007",
+          "dialogue_text": "Now, Chuck / Let's Analyze this latest infraction of the Rules.'",
+          "ocr_confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

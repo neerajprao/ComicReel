@@ -1,0 +1,21 @@
+=== known characters so far: 4 ===
+  char_000  name=None
+  char_001  name=None
+  char_002  name=None
+  char_003  name=None
+
+=== page_02 assignments ===
+  page_02_p003: char_000 (similarity=0.00)
+  page_02_p000: char_001 (similarity=0.50)
+  page_02_p004: char_001 (similarity=0.70)
+  page_02_p001: char_001 (similarity=0.63)
+  page_02_p001: char_001 (similarity=0.59)
+  page_02_p003: char_002 (similarity=0.51)
+  page_02_p002: char_001 (similarity=0.55)
+  page_02_p000: char_003 (similarity=0.54)
+  page_02_p004: char_003 (similarity=0.71)
+  page_02_p003: char_002 (similarity=0.60)
+  page_02_p000: char_002 (similarity=0.73)
+  page_02_p002: char_001 (similarity=0.58)
+  page_02_p000: char_002 (similarity=0.69)
+  page_02_p001: char_002 (similarity=0.56)

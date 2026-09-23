@@ -1,0 +1,66 @@
+# Default ComicReel pipeline config.
+# Picks a lightweight backend + device per stage so this runs on modest hardware
+# (CPU-only or a small GPU). Swap `backend` per stage as heavier backends are
+# implemented, or point at a different config file entirely (e.g. a
+# pipeline.gpu-24gb.yaml) for higher-quality runs.
+
+stages:
+  panel_detection:
+    backend: magi   # alternative: cv_heuristic (zero-download, zero-GPU fallback)
+    device: cpu     # mps is untested for Magi's ops as of Phase 1; cpu is the safe default
+    options:
+      reading_direction: auto   # auto | ltr | rtl
+      panel_detection_threshold: 0.2
+
+  bubble_detection:
+    backend: magi   # no zero-download fallback yet; yolo_bubble deferred, see progress.md
+    device: cpu     # mps untested for Magi's ops, same as panel_detection
+    options:
+      character_detection_threshold: 0.3
+      text_detection_threshold: 0.3
+      tail_detection_threshold: 0.34
+      text_tail_matching_threshold: 0.3
+      attribution_max_angle_deg: 60.0
+
+  vlm_extraction:
+    backend: qwen_vl_ollama   # alternative: qwen_vl_hf (no Ollama server required, but much slower)
+    device: cpu                # only used for the Magi/OCR half of this stage; Ollama manages its own device
+    options:
+      panel_detection_threshold: 0.2
+      text_detection_threshold: 0.3
+      ollama_model: qwen2.5vl:7b
+      max_new_tokens: 256   # only used by qwen_vl_hf
+
+  character_embedding:
+    backend: dinov2   # alternative: clip -- measured worse identity separation on stylized art, see progress.md
+    device: cpu       # mps/cuda untested for CLIP/DINOv2 in this project as of Phase 4
+    options:
+      panel_detection_threshold: 0.2
+      character_detection_threshold: 0.3
+      use_head_crop: true          # embed just the head/face region, not the whole character box
+      head_crop_top_fraction: 0.45
+      head_crop_width_fraction: 0.7
+      clustering_mode: complete_linkage   # alternative: centroid -- measured under-splitting on this project's sample pages
+      similarity_threshold: 0.55   # cosine similarity; tuned by visual review for complete_linkage + head crops + dinov2
+      clip_model_id: openai/clip-vit-base-patch32
+      dinov2_model_id: facebook/dinov2-base
+
+  script_generation:
+    backend: llama3
+    device: auto
+
+  tts:
+    backend: xtts_v2
+    device: auto
+
+  animation:
+    backend: static_kenburns
+    device: auto
+
+  music_sfx:
+    backend: musicgen
+    device: auto
+
+  compositing:
+    backend: ffmpeg
+    device: cpu

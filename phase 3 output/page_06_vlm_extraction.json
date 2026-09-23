@@ -1,0 +1,138 @@
+{
+  "page_id": "page_06",
+  "panels": [
+    {
+      "panel_id": "page_06_p000",
+      "action_description": "Two mice observe a drought-stricken landscape, expressing concern about crop failure and food scarcity for Mouseville.",
+      "setting": "a rural landscape with a water tower and crops",
+      "mood": "anxious",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b000",
+          "dialogue_text": "OX, THIS IS TERRIBLE! IF THE (CROPS DIE FOR LACK OF WATER, MOUSEVILLE WILL HAVE NO FOOD NEXT YEAR / WHERE CAN + KIOMIC MOUSE BE... 2 yO",
+          "ocr_confidence": 0.7467857142857143
+        }
+      ]
+    },
+    {
+      "panel_id": "page_06_p001",
+      "action_description": "A mouse wearing a hat and holding a magnifying glass looks worried and says he tried to call someone but nobody knows where they are.",
+      "setting": "an indoor setting, possibly a room",
+      "mood": "anxious",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b001",
+          "dialogue_text": "I tried to call on him - but nobody knows where he is!",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_06_p002",
+      "action_description": "A group of mice, led by a larger mouse in a red cap, is gathered near a small body of water, seemingly planning a swimming lesson.",
+      "setting": "a natural outdoor setting with a small pond and reeds, suggesting a peaceful, rural environment.",
+      "mood": "excited",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b002",
+          "dialogue_text": "J... OT TO THISSZCRETSWIMMING. HOLE! AND WERE NOTLEAVING TILL I'VE TAUGHT YOU ALL HOW ~~ wswin\u2019 pes",
+          "ocr_confidence": 0.5335294117647059
+        }
+      ]
+    },
+    {
+      "panel_id": "page_06_p003",
+      "action_description": "A cartoon character is speaking to another character, expressing readiness to help non-swimmers.",
+      "setting": "an indoor setting, possibly a room or a classroom",
+      "mood": "comedic",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b003",
+          "dialogue_text": "WHERE IS OK here at this timeof need? Helping others--Of course",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_06_p004",
+      "action_description": "A diver performs a dramatic dive into a pool, creating a splash as they enter the water.",
+      "setting": "a swimming pool with a diving board",
+      "mood": "excited",
+      "onomatopoeia": [
+        "BAM"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b004",
+          "dialogue_text": "Isn't he wonderful!",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_06_b005",
+          "dialogue_text": "Look at that dive,'",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_06_p005",
+      "action_description": "A character is demonstrating a move to another character, who is watching attentively.",
+      "setting": "an outdoor area with trees and a clear sky",
+      "mood": "comedic",
+      "onomatopoeia": [
+        "BAM"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b006",
+          "dialogue_text": "NOW STAND BY WHILE I SHOW YOU ~ HOW EAsy IT IS! see",
+          "ocr_confidence": 0.6338461538461538
+        }
+      ]
+    },
+    {
+      "panel_id": "page_06_p006",
+      "action_description": "A character is peeking out from behind a bush, holding a red object, while another character is partially visible in the foreground.",
+      "setting": "a forested area with bushes and trees",
+      "mood": "tense",
+      "onomatopoeia": [
+        "HEH-HEH-HEH"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b007",
+          "dialogue_text": "it look whose his one to-the swimming hole ...",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_06_b008",
+          "dialogue_text": "HOW -- that's atomic house's best there,shardon! And his gaze.Plus in that belt.'",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_06_b009",
+          "dialogue_text": "Heh, yeah lying there in",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_06_p007",
+      "action_description": "Mickey Mouse swims confidently in a pond, surrounded by three mice who admire his swimming skills.",
+      "setting": "a pond with reeds and lily pads",
+      "mood": "comedic",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_06_b010",
+          "dialogue_text": "and he's goin' to teach - goly, we're lucky!",
+          "ocr_confidence": 0.85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "page_id": "page_04",
+  "panels": [
+    {
+      "panel_id": "page_04_p000",
+      "action_description": "A man in a yellow coat is holding a small dog and walking past an animal shelter sign.",
+      "setting": "an animal shelter",
+      "mood": "comedic",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b000",
+          "dialogue_text": ", MATL DrOcmA) jAi THIC. NOTHING PERSONAL IN THIS FELLER.\u201c BUT MY SCHOOL!IS NO PLACE FOR PETS, Ls aera a",
+          "ocr_confidence": 0.6214999999999999
+        },
+        {
+          "bubble_id": "page_04_b001",
+          "dialogue_text": "Animal shelter",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p001",
+      "action_description": "A man in a yellow coat is pulling on his coat as he stands in a doorway, looking frustrated.",
+      "setting": "a doorway leading to an office or home interior",
+      "mood": "frustrated",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b002",
+          "dialogue_text": "Hmph://I didn't WANT TO GO OUT TODAY / I've got a desk full of work that needs doing./",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p002",
+      "action_description": "Two men are engaged in a conversation, with one expressing concern about taking on another person to feed.",
+      "setting": "an indoor setting, possibly a room or office, indicated by the blue background and the men's attire.",
+      "mood": "serious",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b003",
+          "dialogue_text": "But not many people are taking on another mouth to feed these days / B-But if",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_04_b004",
+          "dialogue_text": "B-But if nobody wants him?",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p003",
+      "action_description": "A man in a yellow suit is talking to another man holding a small dog, with a dog in the background barking.",
+      "setting": "an animal shelter or adoption center",
+      "mood": "comedic",
+      "onomatopoeia": [
+        "ARF!",
+        "YAP!"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b005",
+          "dialogue_text": "WELL, THATS | WHAT WE Always HOPE FOR\u2019 JD es",
+          "ocr_confidence": 0.55
+        },
+        {
+          "bubble_id": "page_04_b006",
+          "dialogue_text": "You'll keep him here until he's adopted, right?",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p004",
+      "action_description": "A man in a yellow trench coat and hat is running with a small dog in his arms, expressing frustration about not getting another night's sleep.",
+      "setting": "a bedroom at night",
+      "mood": "tense",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b007",
+          "dialogue_text": "over my dead body / I'd never get another night's sleep.'",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_04_p005",
+      "action_description": "A man in a gray suit is holding a small orange dog, while another man in a yellow suit and hat looks surprised and concerned.",
+      "setting": "inside a building, possibly an animal shelter or a pet store",
+      "mood": "tense",
+      "onomatopoeia": [
+        "GULP"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_04_b008",
+          "dialogue_text": "Gulp! Y-You mean....z EGAD./",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_04_b009",
+          "dialogue_text": "Look,mister/. The world is full of unwanted animals./",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_04_b010",
+          "dialogue_text": "THERE'S NO WAY WE CAN KEEP THEM ALL.\u201d Sennen een",
+          "ocr_confidence": 0.723
+        }
+      ]
+    }
+  ]
+}

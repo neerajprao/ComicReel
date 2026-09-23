@@ -1,0 +1,45 @@
+=== page_03_p000 ===
+  action:   A person in a red coat holds a small, orange puppy and speaks about rescuing it from an alley.
+  setting:  an indoor setting with bookshelves and a framed picture on the wall
+  mood:     emotional
+  sfx:      []
+    [0.67] "I COULDN'T LEAVE HIM, SIR,“ HE WAS ABANDONED IN AN er a | ALILCY /"
+
+=== page_03_p001 ===
+  action:   A man in a suit is speaking with a concerned expression, emphasizing the importance of rules.
+  setting:  an office or meeting room
+  mood:     serious
+  sfx:      []
+    [0.71] 'RULES ARE ~ RULES / IF I LET ONE PUPPY IN,THIS PLACE Witt BEA MENAGERIE IN A FEW _ WEEKS 7 fA'
+
+=== page_03_p002 ===
+  action:   A man in a blue suit is holding a small dog, while another man in a red coat looks on with a concerned expression.
+  setting:  an indoor setting, possibly a classroom or office, with bookshelves and a window in the background.
+  mood:     tense
+  sfx:      []
+    [0.85] "You're breaking my heart/"
+    [0.85] "I still won't allow animals in my school,/"
+
+=== page_03_p003 ===
+  action:   A person is holding a small, orange dog and appears to be speaking about the dog's condition and their urgency to take care of it.
+  setting:  outside a school building, indicated by the 'PRINCIPAL' sign on the door.
+  mood:     anxious
+  sfx:      ['PRINCIPAL']
+    [0.80] "HE'S SO HUNGRY -- AND SOTINY./ HE MIGHT HAVE DIED BEFORE I GOT OUT OF SCHOOL AND WENT BACK FOR HIM , a"
+    [0.32] 'JAG \\QAIAF'
+
+=== page_03_p004 ===
+  action:   A man in a blue suit is pointing at another man in a red coat, who is walking away.
+  setting:  a school hallway
+  mood:     tense
+  sfx:      ['ULP!']
+    [0.82] "NOW YOU GET TO CLASS. I'LL j DELIVER YOUR FRIEND PERSONALLY. y,"
+    [0.85] "Uup! y-yessir,'"
+
+=== page_03_p005 ===
+  action:   A man in a blue suit is gesturing with his hand while speaking to a woman in a red coat.
+  setting:  an indoor setting, possibly a room or office
+  mood:     serious
+  sfx:      []
+    [0.85] 'There are legitimate organizations to take care of strays /'
+    [0.67] "THAT'S WHY WE HAVE AN } ANIMAL SHELTER IN TOWN , fe eR a"

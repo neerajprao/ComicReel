@@ -1,0 +1,111 @@
+{
+  "characters": [
+    {
+      "character_id": "char_000",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_000__page_02_c000.png",
+      "name": null
+    },
+    {
+      "character_id": "char_001",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_001__page_02_c001.png",
+      "name": null
+    },
+    {
+      "character_id": "char_002",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_002__page_02_c005.png",
+      "name": null
+    },
+    {
+      "character_id": "char_003",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_003__page_02_c007.png",
+      "name": null
+    },
+    {
+      "character_id": "char_004",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_004__page_03_c005.png",
+      "name": null
+    },
+    {
+      "character_id": "char_005",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_005__page_03_c009.png",
+      "name": null
+    },
+    {
+      "character_id": "char_006",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_006__page_04_c000.png",
+      "name": null
+    },
+    {
+      "character_id": "char_007",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_007__page_04_c006.png",
+      "name": null
+    },
+    {
+      "character_id": "char_008",
+      "representative_crop": "data/cache/archie_fcbd_jan18/characters/dinov2/crops/char_008__page_04_c008.png",
+      "name": null
+    }
+  ],
+  "panel_assignments": [
+    {
+      "panel_id": "page_04_p002",
+      "bubble_id": null,
+      "character_id": "char_006",
+      "similarity": 0.5117630767644029
+    },
+    {
+      "panel_id": "page_04_p004",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.6925347661016115
+    },
+    {
+      "panel_id": "page_04_p002",
+      "bubble_id": null,
+      "character_id": "char_002",
+      "similarity": 0.6184214056595004
+    },
+    {
+      "panel_id": "page_04_p001",
+      "bubble_id": null,
+      "character_id": "char_006",
+      "similarity": 0.6289651320606315
+    },
+    {
+      "panel_id": "page_04_p003",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.6064576507580041
+    },
+    {
+      "panel_id": "page_04_p000",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.5961981417222292
+    },
+    {
+      "panel_id": "page_04_p003",
+      "bubble_id": null,
+      "character_id": "char_007",
+      "similarity": 0.5420859386680696
+    },
+    {
+      "panel_id": "page_04_p004",
+      "bubble_id": null,
+      "character_id": "char_003",
+      "similarity": 0.662828242776841
+    },
+    {
+      "panel_id": "page_04_p005",
+      "bubble_id": null,
+      "character_id": "char_008",
+      "similarity": 0.5229141025330696
+    },
+    {
+      "panel_id": "page_04_p005",
+      "bubble_id": null,
+      "character_id": "char_007",
+      "similarity": 0.6730477434384093
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "page_id": "page_06",
+  "image_path": "/Users/neerajprao/Desktop/ComicReel/tests/fixtures/sample_pages/page_06.jpg",
+  "panels": [
+    {
+      "panel_id": "page_06_p001",
+      "bbox": [
+        79.0,
+        58.0,
+        361.0,
+        332.0
+      ],
+      "polygon": [],
+      "reading_order_index": 0
+    },
+    {
+      "panel_id": "page_06_p000",
+      "bbox": [
+        440.0,
+        55.0,
+        539.0,
+        330.0
+      ],
+      "polygon": [],
+      "reading_order_index": 1
+    },
+    {
+      "panel_id": "page_06_p003",
+      "bbox": [
+        76.0,
+        406.0,
+        345.0,
+        323.0
+      ],
+      "polygon": [],
+      "reading_order_index": 2
+    },
+    {
+      "panel_id": "page_06_p002",
+      "bbox": [
+        429.0,
+        399.0,
+        550.0,
+        334.0
+      ],
+      "polygon": [],
+      "reading_order_index": 3
+    },
+    {
+      "panel_id": "page_06_p005",
+      "bbox": [
+        69.0,
+        738.0,
+        398.0,
+        331.0
+      ],
+      "polygon": [],
+      "reading_order_index": 4
+    },
+    {
+      "panel_id": "page_06_p004",
+      "bbox": [
+        470.0,
+        733.0,
+        505.0,
+        345.0
+      ],
+      "polygon": [],
+      "reading_order_index": 5
+    },
+    {
+      "panel_id": "page_06_p007",
+      "bbox": [
+        71.0,
+        1074.0,
+        486.0,
+        321.0
+      ],
+      "polygon": [],
+      "reading_order_index": 6
+    },
+    {
+      "panel_id": "page_06_p006",
+      "bbox": [
+        563.0,
+        1090.0,
+        411.0,
+        310.0
+      ],
+      "polygon": [],
+      "reading_order_index": 7
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "page_id": "page_03",
+  "panels": [
+    {
+      "panel_id": "page_03_p000",
+      "action_description": "A person in a red coat holds a small, orange puppy and speaks about rescuing it from an alley.",
+      "setting": "an indoor setting with bookshelves and a framed picture on the wall",
+      "mood": "emotional",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_03_b000",
+          "dialogue_text": "I COULDN'T LEAVE HIM, SIR,\u201c HE WAS ABANDONED IN AN er a | ALILCY /",
+          "ocr_confidence": 0.6746666666666666
+        }
+      ]
+    },
+    {
+      "panel_id": "page_03_p001",
+      "action_description": "A man in a suit is speaking with a concerned expression, emphasizing the importance of rules.",
+      "setting": "an office or meeting room",
+      "mood": "serious",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_03_b001",
+          "dialogue_text": "RULES ARE ~ RULES / IF I LET ONE PUPPY IN,THIS PLACE Witt BEA MENAGERIE IN A FEW _ WEEKS 7 fA",
+          "ocr_confidence": 0.7145454545454545
+        }
+      ]
+    },
+    {
+      "panel_id": "page_03_p002",
+      "action_description": "A man in a blue suit is holding a small dog, while another man in a red coat looks on with a concerned expression.",
+      "setting": "an indoor setting, possibly a classroom or office, with bookshelves and a window in the background.",
+      "mood": "tense",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_03_b002",
+          "dialogue_text": "You're breaking my heart/",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_03_b003",
+          "dialogue_text": "I still won't allow animals in my school,/",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_03_p003",
+      "action_description": "A person is holding a small, orange dog and appears to be speaking about the dog's condition and their urgency to take care of it.",
+      "setting": "outside a school building, indicated by the 'PRINCIPAL' sign on the door.",
+      "mood": "anxious",
+      "onomatopoeia": [
+        "PRINCIPAL"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_03_b004",
+          "dialogue_text": "HE'S SO HUNGRY -- AND SOTINY./ HE MIGHT HAVE DIED BEFORE I GOT OUT OF SCHOOL AND WENT BACK FOR HIM , a",
+          "ocr_confidence": 0.7978260869565217
+        },
+        {
+          "bubble_id": "page_03_b005",
+          "dialogue_text": "JAG \\QAIAF",
+          "ocr_confidence": 0.32
+        }
+      ]
+    },
+    {
+      "panel_id": "page_03_p004",
+      "action_description": "A man in a blue suit is pointing at another man in a red coat, who is walking away.",
+      "setting": "a school hallway",
+      "mood": "tense",
+      "onomatopoeia": [
+        "ULP!"
+      ],
+      "bubbles": [
+        {
+          "bubble_id": "page_03_b006",
+          "dialogue_text": "NOW YOU GET TO CLASS. I'LL j DELIVER YOUR FRIEND PERSONALLY. y,",
+          "ocr_confidence": 0.8175
+        },
+        {
+          "bubble_id": "page_03_b007",
+          "dialogue_text": "Uup! y-yessir,'",
+          "ocr_confidence": 0.85
+        }
+      ]
+    },
+    {
+      "panel_id": "page_03_p005",
+      "action_description": "A man in a blue suit is gesturing with his hand while speaking to a woman in a red coat.",
+      "setting": "an indoor setting, possibly a room or office",
+      "mood": "serious",
+      "onomatopoeia": [],
+      "bubbles": [
+        {
+          "bubble_id": "page_03_b008",
+          "dialogue_text": "There are legitimate organizations to take care of strays /",
+          "ocr_confidence": 0.85
+        },
+        {
+          "bubble_id": "page_03_b009",
+          "dialogue_text": "THAT'S WHY WE HAVE AN } ANIMAL SHELTER IN TOWN , fe eR a",
+          "ocr_confidence": 0.667142857142857
+        }
+      ]
+    }
+  ]
+}

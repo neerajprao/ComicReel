@@ -1,0 +1,61 @@
+=== page_05_p000 ===
+  action:   A cartoon mouse is falling backward with a surprised expression, arms outstretched, as if reacting to something unseen.
+  setting:  an undefined space, possibly indoors or outdoors, as there are no specific background details.
+  mood:     surprised
+  sfx:      ['WH-OOH']
+    [0.44] 'Milo Of == WHET Ss THAT Ps'
+
+=== page_05_p001 ===
+  action:   A character is flying through the sky, leaving a trail behind, with a speech bubble indicating they need to return to Mouseville.
+  setting:  a town with red-roofed houses and a church steeple in the distance
+  mood:     urgent
+  sfx:      ['WHOOSH']
+    [0.85] "Better get back to mouseville to see if count Gato's up to anything !"
+    [0.85] 'but at that moment....'
+
+=== page_05_p002 ===
+  action:   A mouse is being carried by a rope, swinging through the air while two smaller mice follow below.
+  setting:  an outdoor area with trees and a fence, suggesting a park or garden setting.
+  mood:     dynamic
+  sfx:      []
+    [0.85] "The count's right shadow! you won't be carrying it for long!"
+
+=== page_05_p003 ===
+  action:   Two characters are struggling to carry a large, heavy load, with one character exclaiming the weight and the other urging them to keep going.
+  setting:  an outdoor setting with trees and a dirt path
+  mood:     tense
+  sfx:      ['CHEE', 'BUCK']
+    [0.85] 'chee,count-- this load is heavy!'
+    [0.65] "(BUCK UPIWE WON'T BE CARRYING “WIT FOR LONG! /"
+
+=== page_05_p004 ===
+  action:   A mouse character is pushing a large sack, while another character lies underneath it, seemingly trying to avoid being crushed.
+  setting:  an outdoor setting, possibly a street or a yard
+  mood:     tense
+  sfx:      []
+    [0.67] "AND NOW THE LOAD'S” | EVEN HEAVIER!"
+    [0.85] 'Curses-- How do again!'
+
+=== page_05_p005 ===
+  action:   Mickey Mouse is flying through the air, seemingly propelled by a rocket, while two other characters are lying on the ground, seemingly knocked out.
+  setting:  an outdoor setting with a hill and a clear sky
+  mood:     comedic
+  sfx:      ['BANG', 'WHOOSH']
+    [0.85] 'But this is a funny way to buck up!'
+
+=== page_05_p006 ===
+  action:   A farmer and a boy are discussing the drought and the farmer's concern about his crops.
+  setting:  a rural farm setting
+  mood:     anxious
+  sfx:      []
+    [0.67] 'A FEW DAYS LATER,NOT FAR FROM MOUSEVILLE... Seen NS SECs'
+    [0.85] "We haven't had rain for days-- my crops will be ruined! - have you called aistic"
+    [0.85] 'Have you called Atomic Mouse...?'
+
+=== page_05_p007 ===
+  action:   A group of mice, including one in a top hat, are gathered around a fallen cat, seemingly discussing whether to take the cat to jail.
+  setting:  an indoor setting, possibly a room or a den, given the presence of a chair and the casual attire of the mice.
+  mood:     comedic
+  sfx:      []
+    [0.52] "Jorma . THEY'VE BEEN PUNISHED ENOUGH! Wtreeduider dleane’"
+    [0.51] 'SAL WE TAKE Bl Uoeeka bru TO JAIL, ATOMIC MOUSE?'
